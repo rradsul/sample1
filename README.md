@@ -3,7 +3,7 @@
 ### 3rd heading
 #### 4th heading
 ##### 5th heading
-**bold text**
+**bold text**  
 _italic_
 
 
